@@ -28,7 +28,7 @@ class Student{
 
 }
 fun main(){
-    var student = Student()
+    val student = Student()
     student.setNim("1202190044")
     student.setName("Rezki")
     student.setAge(21)
